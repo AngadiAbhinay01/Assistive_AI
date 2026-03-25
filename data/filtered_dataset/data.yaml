@@ -1,0 +1,10 @@
+train: train/images
+val: valid/images
+
+nc: 4   # or 4 if jumper added
+
+names:
+  0: battery
+  1: breadboard
+  2: led
+  3: jumper_wire

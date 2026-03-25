@@ -1,0 +1,4 @@
+0 led
+1 battery
+2 breadboard
+3 jumper_wires

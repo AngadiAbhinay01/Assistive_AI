@@ -1,0 +1,37 @@
+{
+  "activity_name": "Lighting up an LED",
+  "description": "In this activity, you will learn how to light up an LED using a 3 volt battery, jumper wires, and a breadboard.",
+
+  "components": [
+    "3V battery",
+    "LED",
+    "jumper wires",
+    "breadboard"
+  ],
+
+  "steps": [
+    "Place all components on a flat table in front of you. Keep them within easy reach of your hands.",
+
+    "Pick up the breadboard. Feel its surface. You will notice many small holes arranged in rows and columns. Place it flat on the table with the holes facing upward.",
+
+    "Now pick up the LED. It is a small bulb with two thin metal legs at the bottom.",
+
+    "Carefully touch both legs of the LED. One leg will feel slightly longer than the other. The longer leg is the positive leg, and the shorter leg is the negative leg.",
+
+    "Hold the LED by its top gently. Insert the longer leg into one hole of the breadboard. Then insert the shorter leg into another hole in a different row. Make sure the two legs are not touching each other.",
+
+    "Now pick up a jumper wire. Feel both ends of the wire. Each end has a small metal pin.",
+
+    "Take one end of the jumper wire and connect it to the hole where the longer leg of the LED is placed.",
+
+    "Take the other end of the same wire and connect it to the positive terminal of the battery. The positive terminal is usually marked with a plus symbol.",
+
+    "Now take another jumper wire. Connect one end of this wire to the hole where the shorter leg of the LED is inserted.",
+
+    "Connect the other end of this second wire to the negative terminal of the battery. The negative terminal is usually marked with a minus symbol.",
+
+    "Now gently check all connections using your fingers. Ensure that all wires are firmly connected and not loose.",
+
+    "If everything is connected correctly, the LED will glow. You may not see the light, but you can ask someone nearby to confirm or feel slight warmth near the LED."
+  ]
+}

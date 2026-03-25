@@ -1,0 +1,8 @@
+train: train/images
+val: val/images
+
+names:
+  0: led
+  1: battery
+  2: breadboard
+  3: jumper_wire
